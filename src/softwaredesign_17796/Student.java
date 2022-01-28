@@ -1,13 +1,9 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+Author: Khoi
+Date: Jan 28th 2022
+*/
 package softwaredesign_17796;
 
-/**
- *
- * @author DELL
- */
 public class Student {
     private String studentId;
     private String studentName;
@@ -33,6 +29,6 @@ public class Student {
         this.studentName = studentName;
     }
     
-    
+
     
 }
